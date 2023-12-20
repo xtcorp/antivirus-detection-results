@@ -25,8 +25,6 @@
 | Dr Web CureIt | 496 | 43% |
 | ESET NOD32 | 705 | 61% |
 | Kaspersky Free | 599 | 51% |
-| KVRT | 725 | 62% |
+| **KVRT** | **725** | **62%** |
 | MalwareBytes | 618 | 53% |
 | Microsoft Defender | 254 | 22% |
-
-### Победитель - KVRT
