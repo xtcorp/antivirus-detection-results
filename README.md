@@ -1,4 +1,4 @@
-![Windows Section](https://github.com/xtcorp/browser-benchmark-results/blob/main/images/BrowserBench.png)
+![Windows Section](https://github.com/xtcorp/antivirus-detection-results/blob/main/images/AntivirusDetection.png)
 
 Тестирование популярных антивирусов на 2023-й год. За основу теста была взята [коллекция малварей от Zusyaku](https://github.com/Zusyaku/Malware-Collection-Part-2) без больших вирусов. Коллекция в разархивированном виде имеет 1164 файла и 193 папки
 
