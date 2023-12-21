@@ -1,6 +1,6 @@
 ![Windows Section](https://github.com/xtcorp/antivirus-detection-results/blob/main/images/AntivirusDetection.png)
 
-Тестирование популярных антивирусов на 2023-й год. За основу теста была взята [коллекция малварей от Zusyaku](https://github.com/Zusyaku/Malware-Collection-Part-2) без больших вирусов. Коллекция в разархивированном виде имеет 1164 файла и 193 папки
+Тестирование популярных на 2023-й год антивирусных программ. За основу теста была взята [коллекция малварей от Zusyaku](https://github.com/Zusyaku/Malware-Collection-Part-2) без больших вирусов. Коллекция в разархивированном виде имеет 1164 файла и 193 папки
 
 ## Когда было тестирование?
 21 сентября 2023 года
