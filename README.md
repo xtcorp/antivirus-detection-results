@@ -19,12 +19,12 @@
 
 | Антивирус | Обнаружено | Обнаружено % |
 |          ---: |     :---:      |     :---:      |
+| **KVRT** | **725** | **62%** |
+| ESET NOD32 | 705 | 61% |
 | 360 Total Security | 681 | 59% |
 | Avast | 675 | 58% |
 | AVG | 675 | 58% |
-| Dr Web CureIt | 496 | 43% |
-| ESET NOD32 | 705 | 61% |
-| Kaspersky Free | 599 | 51% |
-| **KVRT** | **725** | **62%** |
 | MalwareBytes | 618 | 53% |
+| Kaspersky Free | 599 | 51% |
+| Dr Web CureIt | 496 | 43% |
 | Microsoft Defender | 254 | 22% |
